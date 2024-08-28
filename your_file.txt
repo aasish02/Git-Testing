@@ -1,3 +1,0 @@
-ram 
-This is the content of the file. 
-hello ram 
